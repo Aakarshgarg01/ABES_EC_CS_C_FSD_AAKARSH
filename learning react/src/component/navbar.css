@@ -1,0 +1,15 @@
+#navbar{
+    text-decoration: solid;
+    background-color: aqua;
+    height: 50px;
+    width: 100%;
+text-align: start;
+    padding-right: 800px;
+  
+
+}
+.home:hover{
+    color: white; /* change to the color you want on hover */
+    cursor: pointer;
+}
+    
